@@ -1,2 +1,2 @@
-# comp2710
-Comp 2710
+# COMP 2710
+Software Construction w/ Sardinas Fall 2025
