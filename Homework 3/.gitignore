@@ -1,0 +1,4 @@
+.vscode/
+*.o
+store_app
+main
